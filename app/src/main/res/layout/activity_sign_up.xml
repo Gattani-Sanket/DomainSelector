@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SignUp"
+    android:background="@color/Background">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <EditText
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:textColor="@color/Textcolor"
+                android:hint="First name"
+                android:textColorHint="@color/Textcolor"
+                android:gravity="center"
+                android:layout_marginTop="30dp"
+                android:textSize="20sp"
+                android:layout_alignParentLeft="true"
+                android:background="@drawable/border"
+                android:id="@+id/fname" />
+
+            <EditText
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:textColor="@color/Textcolor"
+                android:hint="Last name"
+                android:textColorHint="@color/Textcolor"
+                android:gravity="center"
+                android:layout_marginTop="30dp"
+                android:textSize="20sp"
+
+                android:background="@drawable/border"
+                android:id="@+id/lname"
+                android:layout_below="@+id/fname"/>
+
+            <TextView
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:textColor="@color/Textcolor"
+                android:hint="Birthdate"
+
+                android:textColorHint="@color/Textcolor"
+                android:gravity="center"
+                android:layout_marginTop="30dp"
+                android:textSize="20sp"
+                android:background="@drawable/border"
+                android:id="@+id/bdate"
+                android:layout_below="@+id/lname"
+                android:inputType="date"/>
+
+            <RelativeLayout
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginTop="30dp"
+                android:id="@+id/Lsuname"
+                android:background="@drawable/border"
+                android:padding="5dp"
+                android:layout_below="@+id/bdate">
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textColorHint="@color/Textcolor"
+                    android:hint="Username"
+                    android:textSize="15sp"
+                    android:gravity="center"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="70dp"
+                    android:id="@+id/susername"
+                    android:textColor="@color/Textcolor"/>
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="70dp"
+                    android:layout_height="match_parent"
+                    android:padding="5dp"
+                    android:layout_alignParentLeft="true"
+                    android:src="@drawable/profile"
+                    android:background="@color/Cardviewcolor"/>
+
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginTop="30dp"
+                android:id="@+id/Lsemail"
+                android:background="@drawable/border"
+                android:padding="5dp"
+                android:layout_below="@+id/Lsuname">
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textColorHint="@color/Textcolor"
+                    android:hint="Email"
+                    android:textSize="15sp"
+                    android:gravity="center"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="70dp"
+                    android:id="@+id/semail"
+                    android:textColor="@color/Textcolor"/>
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="60dp"
+                    android:layout_height="match_parent"
+                    android:padding="5dp"
+                    android:layout_alignParentLeft="true"
+                    android:src="@drawable/mail"
+                    android:background="@color/Cardviewcolor"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginTop="30dp"
+                android:id="@+id/Lsmob"
+                android:background="@drawable/border"
+                android:paddingLeft="2dp"
+                android:layout_below="@+id/Lsemail">
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textColorHint="@color/Textcolor"
+                    android:hint="Mobile"
+                    android:textSize="15sp"
+                    android:gravity="center"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="70dp"
+                    android:id="@+id/smob"
+                    android:inputType="number"
+                    android:textColor="@color/Textcolor"/>
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="60dp"
+                    android:layout_height="match_parent"
+                    android:padding="5dp"
+                    android:layout_alignParentLeft="true"
+
+                    android:src="@drawable/phone"
+                    android:background="@color/Cardviewcolor"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginTop="30dp"
+                android:id="@+id/Lspass"
+                android:layout_below="@+id/Lsmob"
+                android:background="@drawable/border"
+                android:padding="5dp">
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textColorHint="@color/Textcolor"
+                    android:hint="Password"
+                    android:textSize="15sp"
+                    android:gravity="center"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginLeft="70dp"
+
+
+                    android:id="@+id/pwd1"
+                    android:inputType="textPassword"
+                    android:textColor="@color/Textcolor"
+                    />
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="60dp"
+                    android:layout_height="match_parent"
+                    android:padding="5dp"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentLeft="true"
+
+                    android:src="@drawable/password"
+                    android:background="@color/Cardviewcolor"/>
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginTop="30dp"
+                android:id="@+id/Lspass2"
+                android:layout_below="@+id/Lspass"
+                android:background="@drawable/border"
+                android:paddingLeft="5dp">
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textColorHint="@color/Textcolor"
+                    android:hint="Confirm Password"
+                    android:textSize="15sp"
+                    android:gravity="center"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginLeft="70dp"
+
+
+                    android:id="@+id/pwd2"
+                    android:inputType="textPassword"
+                    android:textColor="@color/Textcolor"
+                    />
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="60dp"
+                    android:layout_height="match_parent"
+                    android:padding="5dp"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentLeft="true"
+
+                    android:src="@drawable/password"
+                    android:background="@color/Cardviewcolor"/>
+            </RelativeLayout>
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_below="@+id/Lspass2"
+                android:layout_marginTop="30dp"
+                android:background="#0a4"
+                android:text="REGISTER"
+                android:textSize="25sp"
+                android:id="@+id/btnRegister"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"/>
+
+        </RelativeLayout>
+
+    </ScrollView>
+</RelativeLayout>
