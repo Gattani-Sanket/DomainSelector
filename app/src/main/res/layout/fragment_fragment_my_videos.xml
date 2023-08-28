@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FragmentMyVideos"
+    android:background="@drawable/generalbackground">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!-- TODO: Update blank fragment layout -->
+
+
+
+           <ImageView
+               android:id="@+id/ivvoice"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:src="@drawable/voice"
+               android:background="@color/whitetext"
+               android:layout_centerHorizontal="true"
+               android:layout_marginTop="80dp"/>
+    <ImageView
+        android:id="@+id/ivcoursera"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/coursera"
+        android:background="@color/Textcolor"
+        android:layout_below="@+id/ivvoice"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="50dp"/>
+    <ImageView
+        android:id="@+id/ivedx"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginRight="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/ivvoice"
+        android:src="@drawable/edx"
+        android:layout_marginTop="50dp" />
+    <ImageView
+        android:id="@+id/ivudemy"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginRight="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/ivcoursera"
+        android:src="@drawable/udemy"
+        android:layout_marginTop="50dp"
+        android:background="@color/Textcolor"/>
+    <ImageView
+        android:id="@+id/ivudacity"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/udacity"
+        android:background="@color/Textcolor"
+        android:layout_below="@+id/ivcoursera"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="50dp"/>
+
+
+
+</RelativeLayout>
+    </ScrollView>
+</FrameLayout>

@@ -1,0 +1,36 @@
+Two dice are tossed. The probability that the total score is a prime number is:
+1/6
+5/12
+1/2
+7/9
+2
+If you subtract the mean from every score in a set of scores, then square each of the resultant deviation scores, add them up, and divide by the number of scores, what have you calculated?
+The standard error.
+The standard deviation.
+The mean.
+The variance.
+4
+Which number is both a perfect square and a perfect cube?
+16
+64
+144
+None of the above
+2
+Which type of progression is the following sequence? 5,15,45,135,....
+arithmetic
+geometric
+neither arithmetic nor geometric
+None of the above
+2
+One mile is the same as
+1,560 yards
+5,280 feet
+53,360 inches
+All of the above
+2
+Find the value of e^(p/4v2)
+1.74
+1.84
+1.94
+1.64
+1

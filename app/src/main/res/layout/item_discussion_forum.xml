@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardque"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/Cardviewcolor"
+            android:padding="20dp">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/userphoto"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/ic_launcher_background"/>
+            <TextView
+                android:id="@+id/username"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/userphoto"
+                android:layout_marginLeft="30dp"
+                android:text="username"
+                android:textColor="@color/Textcolor"
+                android:textSize="40dp"
+                android:textStyle="italic"/>
+            <TextView
+                android:id="@+id/posttime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/username"
+                android:text="posttime"
+                android:textColor="@color/Textcolor"
+                android:textSize="15dp"
+                android:layout_toRightOf="@+id/userphoto"
+                android:layout_marginLeft="30dp"/>
+            <TextView
+                android:id="@+id/posttitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/posttime"
+                android:text="Title will be displayed here"
+                android:textSize="30dp"
+                android:layout_marginTop="30dp"
+                android:textColor="@color/Textcolor"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/postDescription"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/posttitle"
+                android:layout_marginTop="20dp"
+                android:text="Write your query here"
+                android:textColor="@color/Textcolor"
+                android:textSize="30dp"/>
+            <!--<Button-->
+                <!--android:id="@+id/answer"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="Answer"-->
+                <!--android:layout_below="@+id/postDescription"-->
+                <!--android:layout_alignParentRight="true"/>-->
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+
+</LinearLayout>

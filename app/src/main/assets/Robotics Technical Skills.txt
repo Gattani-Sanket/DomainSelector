@@ -1,0 +1,41 @@
+To be effective as both specialists and generalists — as well as being both practical and investigative — roboticists need a good set of supporting skills. In this list we've taken 25 career skills and grouped them into 10 essential skills for roboticists.
+
+1. Systems Thinking
+A project manager once told me that many people with robotics degrees turn out to be project managers or systems engineers. This makes a lot of sense, as robots are very complicated systems. We have to be good at mechanics, electronics, electrics, programming, sensing and even psychology and cognition.
+
+A good roboticist is able to understand how all of these different systems work together and is comfortable with the theory behind all of them. Whereas, a mechanical engineer could reasonably say: "that's a programming or an electrical problem, it's not my job", a roboticist must be well versed in all of the different specialisms.
+
+Therefore, skills like Systems Analysis and Systems Evaluation are key to being a great roboticist.
+
+2. The Programming MindsetHassanshelash.jpg
+Programming is a pretty essential skill for robotics. It doesn't matter if you're involved in low-level control systems (only using MATLAB to design controllers) or if you're a computer scientist designing high-level cognitive systems. Robotic engineers can be involved at any stage of the programming abstraction. The main difference between robotics and other programming disciplines is that robotic programming interacts with hardware, electronics and the (messy) real world.
+
+There are over 1500 programming languages in the world. Although you clearly don't need to learn all of them, a good roboticist will be have 'The Programming Mindset'. They will be comfortable learning any new language if and when it is required. Which leads us nicely onto…
+
+3. Active Learning
+There are so many topics within robotics that it is impossible to learn all of them before you need them for a project. Even after a 5 year undergraduate degree in robotics and a 3 year PhD, I had only scratched the surface of the topics in robotics.
+
+Being good at Active Learning is an essential skill throughout your whole career. Therefore, having a good level of Reading Comprehension and a grasp of the Learning Strategies that work for you personally will help you to learn new things quickly and easily when the need arises.
+
+4. Mathematics
+There are not many "core" skills in robotics (i.e. topics that can't be learned as you go along). One of these core skills is Mathematics. You would probably find it challenging to succeed in robotics without a good grasp of at least algebra, calculus and geometry. This is because, at a basic level, robotics relies on being able to understand and manipulate abstract concepts, often representing those concepts as functions or equations. Geometry is particularly important for understanding topics like kinematics and technical drawing (which you're likely to see a lot of in your career, even if it's only on the back of a napkin).
+
+5. Science or other Applied Mathematics
+There are some people (pure mathematicians for example) who only need to handle mathematics without applying the concepts to the real world. Roboticists are not this type of person. Skills in Science and other Applied Mathematics are important for robotics, because the real world is never as exact as mathematics. Being able to decide when the result of a calculation is "good enough to actually work" is a key skill for a robotics engineer. Which leads us neatly to…
+
+6. Judgement and Decision Making
+Being a good roboticist means continually making engineering decisions. Should you program with ROS or another system? How many fingers should you give your robot? Which sensors should you use? Robotics is full of choices and there is almost never one correct solution.
+
+Thanks to the wide knowledge base of roboticists, you might find yourself in a better position to weigh up certain problems than engineers from more specialized disciplines. Judgement and Decision Making are essential to make the most of your position. Skills in Analytical Thinking will allow you to analyze the problem from various angles while Critical Thinking skills will help you to use logic and reasoning to balance the strengths and weaknesses of each solution.
+
+7. Good Communication
+As a roboticist, your generalist knowledge will mean that you often have to explain concepts to non-specialists. For example, you might have to explain a high-level programming issue to a mechanical engineer, or a structural mechanics problem to a computer scientist. Good roboticists are a channel of communication between the different disciplines. Therefore, Communication skills are vital. Being able to use your Speaking and Writing skills effectively is important. Also, if you have good Instructing skills this is a big bonus.
+
+8. Technology DesignShadow_Hand_Bulb_large_Alpha.png
+Being proficient at Technology Design means being able to design things that actually work. It also means being able to figure out why something isn't working properly and come up with possible solutions, meaning skills in Repairing. Robotics involves a wide range of technologies, so skills in technology design mean you can effectively isolate the source of problems and propose effective solutions. An almost magical ability to "get it working" (whatever it is and however it is broken) is one of the marks of a truly talented roboticist.
+
+9. Complex Problem Solving
+As we've seen from the previous skills, a lot of robotics is about using your Complex Problem Solving skills. This includes Foreseeing Problems, to fix the problems before they've even arisen, and Troubleshooting them if they do arise.
+
+10. Persistence
+Finally, given the complex nature of robotics, Persistence is a pretty essential skill. It might be persistence in trying to find the solution to a particularly difficult problem, or persistence in trying to explain a complex topic to others. Good roboticists will also support their persistence with Dependability, proving themselves to be as knowledgeable and adaptable as robotics requires them to be.

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivityAnswer"
+    android:background="@drawable/generalbackground">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+    <EditText
+        android:id="@+id/etquestionAnswer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Your Answer Here"
+        android:textColorHint="@color/whitetext"
+        android:textColor="@color/whitetext"
+        android:textSize="18dp"/>
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:layout_below="@+id/etquestionAnswer"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="30dp"/>
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

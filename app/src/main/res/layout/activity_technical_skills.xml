@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TechnicalSkills"
+    android:background="@drawable/generalbackground">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:padding="10dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:id="@+id/rltech"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <TextView
+                android:id="@+id/domainTitle2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Domain Name"
+                android:textSize="28sp"
+                android:textStyle="bold"
+                android:textColor="@color/whitetext"
+                android:layout_below="@+id/domainThumbnail"
+                android:layout_marginTop="30dp"
+                android:layout_centerHorizontal="true"/>
+            <TextView
+                android:id="@+id/tech"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Technical Skills"
+                android:textSize="28sp"
+                android:textStyle="bold"
+                android:textColor="@color/whitetext"
+                android:layout_below="@+id/domainTitle2"
+                android:layout_marginTop="30dp"
+                android:layout_centerHorizontal="true"/>
+            <TextView
+                android:id="@+id/techDescription"
+                android:layout_marginTop="30dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="This Part Will Contain Description"
+                android:textSize="18dp"
+                android:textColor="@color/whitetext"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@id/tech"
+                />
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/btnnext2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_keyboard_backspace_black_24dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:rotation="180"
+            android:drawableLeft="@drawable/ic_keyboard_backspace_black_24dp"
+            android:background="@color/Background"
+            android:layout_below="@id/rltech"
+            />
+        <Button
+            android:id="@+id/btnback2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_keyboard_backspace_black_24dp"
+            android:layout_alignParentBottom="true"
+            android:drawableLeft="@drawable/ic_keyboard_backspace_black_24dp"
+            android:background="@color/Background"
+            android:layout_below="@+id/rltech"
+
+            />
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

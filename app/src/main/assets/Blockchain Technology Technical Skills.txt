@@ -1,0 +1,53 @@
+The lack of blockchain skills is a top concern and significant inhibitor to blockchain adoption in companies across a variety of industries. According to Bloomberg, blockchain-related job postings on LinkedIn increased four-fold in 2017. If you are new to blockchain and wonder what it takes to build the skills and habits necessary to be a successful blockchain talent, this guide is for you.
+
+Based on more than 2 decades of experience, let me share the top 10 skills and habits you need:
+
+1. Learning to drive business outcomes
+
+Blockchain architectures predominantly focus on technology and less on business process simplification, so business-led architecture is the key. Understanding the business outcomes is crucial. Also, explore data flows and build direct connections between trading partners, suppliers and customers across the ecosystem. You want to rationalize the business architecture all the way through to the value chain and partner ecosystem.
+
+Deploy the IBM Blockchain Platform across multiple environments
+
+2. Embracing blockchain expertise as a service
+
+Spearhead pilots and proofs of concept and collaborate with consortiums and Blockchain as a Service (BaaS) providers. Collaboration and negotiation skills are crucial during the formation of consortium.
+
+3. Master of interoperability
+
+Interconnecting ledgers across different technology platforms poses deployment risks, so evangelize an open source mindset. Integration with enterprise systems is also crucial to reduce latency and drive business outcomes.
+
+4. Distributed ledger expertise
+
+Not all blockchain frameworks support smart contracts. Build distributed ledger technology expertise to accelerate smart contracts development.
+
+5. Be a “T” shape person
+
+I am a strong proponent of a T-shaped employee. A blockchain practitioner must possess not only block chain skills — the long, vertical stroke on the “T”— but also cross-discipline broad skills — the horizontal part of the “T” — such as Design Thinking, Agile, DevOps and Continuous Delivery.
+
+Having business and technology experience is not enough. End to end life cycle experience to design, develop, test, deploy and maintain has merits but success lies in using disruptive technologies in unison rather than in a silo fashion. For more on this check out my previous blog on blockchain and IoT.
+
+6. Know the platforms
+
+Selecting the right blockchain platform is a key challenge for the firms today, because the multitude of frameworks often creates confusion. Deep understanding of various blockchain platforms including The Linux Foundation's Hyperledger Fabric, Ethereum, Ripple and R3 Corda, will enable you to identify the right use case for the right blockchain platform and articulate their differences.
+
+7. Understand blockchain security
+
+Security frameworks are still evolving for compliance, legal and regulatory needs. Security skills such as public and private key cryptography, cryptographic hashing, Merkle proofs and elliptic curve digital signatures are great assets.
+
+
+
+8. Learn to simplify
+
+Blockchain is not an enterprise resource planning (ERP) replacement technology. Instead use it to simplify your business process to drive business outcomes. Invest in design thinking methodology to spur innovation. Partnering with blockchain service providers like IBM can provide the full range of capabilities including IBM Cloud Garage to ensure success in all stages of a new blockchain project.
+
+9. Drive blockchain architecture patterns
+
+Learn to explain how a blockchain-based solution is more efficient, secure, and cheaper than any of the available alternatives. Using alternative architecture skills, review the technical designs of your blockchain partners and assist in the selection and planning processes.
+
+10. Know standards and ecosystems
+
+Understanding standards is a must. Participate in ISO/TC 307 initiatives and hyperledger working groups to develop standards around terminology and concepts, personally identifiable information (PII), security risks and vulnerabilities. Be sure to partner with blockchain consortia, and academic institutions to advocate blockchain principles for a progressive ecosystem.
+
+Because blockchain is not a database technology, it requires a breadth and depth of capabilities that every successful blockchain practitioner should acquire as skills. To be successful, you should get an understanding of blockchain principles and practices and how they can be applied within your business environment.
+
+Blockchain is still a relatively new technology, and implementation requires a new set of skills and capabilities. What capabilities have you used for blockchain skill development? What have I missed? Please join the conversation and let me know what you think.

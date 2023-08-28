@@ -1,0 +1,36 @@
+Networking infrastructure, which can be scaled to 100,000 ports or 1 petabit/sec of
+Sharding
+Power data unit
+Power distribution unit
+Bisection bandwidth
+4
+In (0,2) branch predictor, having 4K entries, bits are
+2Kbits
+3Kbits
+4Kbits
+8Kbits
+4
+Higher availability cost is reduced to 1/N, where N is the
+No of disks
+Reliability
+Seek
+Bit rate
+1
+Example: number of cars per hour and is determined by how often a completed car exits assembly line, shows the
+Overlapping
+Through put
+Pipelining
+Relocation
+2
+ To improve ability of compiler to fill branch delay slots, most processors with conditional branches have introduced a
+Canceling
+Nullifying
+Relocation
+Both a and b
+4
+Pipelining that allows to achieve higher clock rates by decomposing five-stage integer pipeline into eight stages, is refered as
+Bubbling
+Stalling
+Superpipelining
+Deeper pipelining
+3

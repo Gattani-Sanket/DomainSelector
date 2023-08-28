@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Explore"
+        android:id="@+id/Explore"
+        android:icon="@drawable/explore"/>
+    <item android:title="SelfAnalyse"
+        android:id="@+id/SelfAnalyse"
+        android:icon="@drawable/selfanalysis"/>
+    <item android:title="SelfLearn"
+        android:id="@+id/MyVideos"
+        android:icon="@drawable/myvideos"/>
+    <item android:title="Forum"
+        android:id="@+id/Forum"
+        android:icon="@drawable/forum"/>
+</menu>

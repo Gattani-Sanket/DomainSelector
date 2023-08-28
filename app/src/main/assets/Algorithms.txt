@@ -1,0 +1,60 @@
+What is the worst case run-time complexity of binary search algorithm?
+(n)
+(nlog n)
+(n3)
+(log n)
+4
+push() and pop() functions are found in
+queues
+lists
+stacks
+trees
+3
+Minimum number of queues required for priority queue implementation?
+5
+4
+3
+2
+4
+What could be the worst case height of an AVL tree?
+0.97 log n
+2.13 log n
+1.44 log n
+n2 log n
+3
+After each iteration in bubble sort
+at least one element is at its sorted position.
+one less comparison is made in the next iteration.
+Both A & B are true.
+Neither A or B are true.
+1
+What will be the running-time of Dijkstra's single source shortest path algorithm, if the graph G(V,E) is stored in form of adjacency list and binary heap is used -
+(|V|2)
+(|V| log |V|)
+(|E|+|V| log |V|)
+None of these
+3
+The T notation in asymptotic evaluation represents -
+Base case
+Average case
+Worst case
+NULL case
+1
+All possible spanning trees of graph G
+have same number of edges and vertices.
+have same number of edges and but not vertices.
+have same number of vertices but not edges.
+depends upon algorithm being used.
+1
+From a complete graph, by removing maximum _______________ edges, we can construct a spanning tree.
+e-n+1
+n-e+1
+n+e-1
+e-n-1
+1
+Which of the following algorithm does not divide the list -
+linear search
+binary search
+merge sort
+quick sort
+1

@@ -1,0 +1,73 @@
+What is data mining?
+
+Data mining is a field of research that has emerged in the 1990s, and is very popular today, sometimes under different names such as “big data” and “data science“, which have a similar meaning. To give a short definition of data mining,  it can be defined as a set of techniques for automatically analyzing data to discover interesting knowledge or pasterns in the data.
+
+The reasons why data mining has become popular is that storing data electronically has become very cheap and that transferring data can now be done very quickly thanks to the fast computer networks that we have today. Thus, many organizations now have huge amounts of data stored in databases, that needs to be analyzed.
+
+Having a lot of data in databases is great. However, to really benefit from this data, it is necessary to analyze the data to understand it. Having data that we cannot understand or draw meaningful conclusions from it is useless. So how to analyze the data stored in large databases?  Traditionally, data has been analyzed by hand to discover interesting knowledge. However, this is time-consuming, prone to error, doing this may miss some important information, and  it is just not realistic to do this on large databases.  To address this problem, automatic techniques have been designed to analyze data and extract interesting patterns, trends or other useful information. This is the purpose of data mining.
+
+In general, data mining techniques are designed either to explain or understand the past (e.g. why a plane has crashed) or predict the future (e.g. predict if there will be an earthquake tomorrow at a given location).
+
+Data mining techniques are used to take decisions based on facts rather than intuition.
+
+What is the process for analyzing data?
+
+To perform data mining, a process consisting of seven steps is usually followed. This process is often called the “Knowledge Discovery in Database” (KDD) process.
+
+Data cleaning: This step consists of cleaning the data by removing noise or other inconsistencies that could be a problem for analyzing the data.
+Data integration: This step consists of integrating data  from various sources to prepare the data that needs to be analyzed. For example, if the data is stored in multiple databases or file, it may be necessary to integrate the data into a single file or database to analyze it.
+Data selection: This step consists of selecting the relevant data for the analysis to be performed.
+Data transformation: This step consists of transforming the data to a proper format that can be analyzed using data mining techniques. For example, some data mining techniques require that all numerical values are normalized.
+Data mining:  This step consists of applying some data mining techniques (algorithms) to analyze the data and discover interesting patterns or extract interesting knowledge from this data.
+Evaluating the knowledge that has been discovered: This step consists of evaluating the knowledge that has been extracted from the data. This can be done in terms of objective and/or subjective measures.
+Visualization:  Finally, the last step is to visualize the knowledge that has been extracted from the data.
+Of course, there can be variations of the above process. For example, some data mining software are interactive and some of these steps may be performed several times or concurrently.
+
+What are the applications of data mining?
+
+There is a wide range of data mining techniques (algorithms), which can be applied in all kinds of domains where data has to be analyzed. Some example of data mining applications are:
+
+fraud detection,
+stock market price prediction,
+analyzing the behavior of customers in terms of what they buy
+In general data mining techniques are chosen based on:
+
+the type of data to be analyzed,
+the type of knowledge or patterns to be extracted from the data,
+how the knowledge will be used.
+What are the relationships between data mining and other research fields?
+
+Actually, data mining is an interdisciplinary field of research partly overlapping with several other fields such as: database systems, algorithmic, computer science, machine learning, data visualization, image and signal processing and statistics.
+
+There are some differences between data mining and statistics although both are related and share many concepts.  Traditionally, descriptive statistics has been more focused on describing the data using measures, while inferential statistics has put more emphasis on hypothesis testing to draw significant conclusion from the data or create models. On the other hand, data mining is often more focused on the end result rather than statistical significance. Several data mining techniques do not really care about statistical tests or significance, as long as some measures such as profitability, accuracy have good values.  Another difference is that data mining is mostly interested by automatic analysis of the data, and often by technologies that can scales to large amount of data. Data mining techniques are sometimes called “statistical learning” by statisticians.  Thus, these topics are quite close.
+
+What are the main data mining software?
+
+To perform data mining, there are many  software programs available. Some of them are general purpose tools offering many algorithms of different kinds, while other are more specialized. Also, some software programs are commercial, while other are open-source.
+
+I am personally, the founder of the SPMF open-source data mining library, which is free and open-source, and specialized in discovering patterns in data. But there are many other popular software such as Weka, Knime, RapidMiner, and the R language, to name a few.
+
+Data mining techniques can be applied to various types of data
+
+Data mining software are typically designed to be applied on various types of data. Below, I give a brief overview of various types of data typically encountered, and which can be analyzed using data mining techniques.
+
+Relational databases:  This is the typical type of databases found in organizations and companies. The data is organized in tables. While, traditional languages for querying databases such as SQL allow to quickly find information in databases, data mining allow to find more complex patterns in data such as trends, anomalies and association between values.
+Customer transaction databases: This is another very common type of data, found in retail stores. It consists of transactions made by customers. For example, a transaction could be that a customer has bought bread and milk with some oranges on a given day. Analyzing this data is very useful to understand customer behavior and adapt marketing or sale strategies.
+Temporal data: Another popular type of data is temporal data, that is data where the time dimension is considered. A sequence is an ordered list of symbols. Sequences are found in many domains, e.g. a sequence of webpages visited by some person, a sequence of proteins in bioinformatics or sequences of products bought by customers.  Another popular type of temporal data is time series. A time series is an ordered list of numerical values such as stock-market prices.
+ Spatial data: Spatial data can also be analyzed. This include for example forestry data, ecological data,  data about infrastructures such as roads and the water distribution system.
+Spatio-temporal data: This is data that has both a spatial and a temporal dimension. For example, this can be meteorological data, data about crowd movements or the migration of birds.
+Text data: Text data is widely studied in the field of data mining. Some of the main challenges is that text data is generally unstructured. Text documents often do no have a clear structure, or are not organized in predefined manner. Some example of applications to text data are (1) sentiment analysis, and  (2) authorship attribution (guessing who is the author of an anonymous text).
+Web data: This is data from websites. It is basically a set of documents (webpages) with links, thus forming a graph. Some examples of data mining tasks on web data are: (1) predicting the next webpage that someone will visit, (2) automatically grouping webpages by topics into categories, and (3) analyzing the time spent on webpages.
+Graph data: Another common type of data is graphs. It is found for example in social networks (e.g. graph of friends) and chemistry (e.g. chemical molecules).
+Heterogeneous data. This is some data that combines several types of data, that may be stored in different format.
+Data streams: A data stream is a high-speed and non-stop stream of data that is potentially infinite (e.g. satellite data, video cameras, environmental data).  The main challenge with data stream is that the data cannot be stored on a computer and must thus be analyzed in real-time using appropriate techniques. Some typical data mining tasks on streams are to detect changes and trends.
+What types of patterns can be found in data?
+
+As previously discussed, the goal of data mining is to extract interesting patterns from data. The main types of patterns that can be extracted from data are the following (of course, this is not an exhaustive list):
+
+Clusters: Clustering algorithms are often applied to automatically group similar instances or objects in clusters (groups).  The goal is to summarize the data to better understand the data or take decision. For example, clustering techniques such as K-Means can be used to automatically groups customers having a similar behavior.
+Classification models: Classification algorithms aims at extracting models that can be used to classify new instances or objects into several categories (classes). For example, classification algorithms such as Naive Bayes, neural networks and decision trees can be used to build models that can predict if a customer will pay back his debt or not, or predict if a student will pass or fail a course.  Models can also be extracted to perform prediction about the future (e.g. sequence prediction).
+Patterns and associations: Several techniques are developed to extract frequent patterns or associations between values in database. For example, frequent itemset mining algorithms can be applied to discover what are the products frequently purchased together by customers of a retail store. Some other types of patterns are for example, sequential patterns, sequential rules,  periodic patterns, and frequent subgraphs.
+ Anomalies/outliers: The goal is to detect things that are abnormal in data (outliers or anomalies). Some applications are for example: (1) detecting hackers attacking a computer system, (2) identifying potential terrorists based on suspicious behavior, and (3) detecting fraud on the stock market.
+Trends, regularities:  Techniques can also be applied to find trends and regularities in data.  Some applications are for example to (1) study patterns in the stock-market to predict stock prices and take investment decisions, (2) discovering regularities to predict earthquake aftershocks, (3) find cycles in the behavior of a system, (4) discover the sequence of events that lead to a system failure.
+In general, the goal of data mining is to find interesting patterns. As previously mentioned, what is interesting can be measured either in terms of objective or subjective measures. An objective measure is for example the occurrence frequency of a pattern (whether it appears often or not), while a subjective measure is whether a given pattern is interesting for a specific person. In general, a pattern could be said to be interesting if: (1) it easy to understand, (2) it is valid for new data (not just for previous data); (3) it is useful, (4) it is novel or unexpected (it is not something that we know already).

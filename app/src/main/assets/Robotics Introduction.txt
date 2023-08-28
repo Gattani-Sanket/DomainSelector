@@ -1,0 +1,35 @@
+Introduction
+The modern definition of a robot can be an electro-mechanical device which follows a set of instructions to carry out certain jobs, but literally robot means a ‘slave’. Robots find wide application in industries and thus are called there as industrial robots and also in sci-fi movies as humanoids. This and coming articles will provide an introduction to the Robotics.
+
+Robotics and Automation
+
+When we think about robotics first thing that come to our mind is automation. Robots are known to perform tasks automatically without much human intervention, except for initial programming and instruction set being provided to them. The first machine, what I have seen in my childhood when we were on a visit to a milk processing plant, most close, to be called as a robot was a milk packaging machine. There was roll of packaging material running through the machine, each time half a liter of milk falls into the roll and then a mechanism in the machine seals and cuts the packet.
+
+This machine can be a simple example of a very basic robot. It performs the specified sequence of operations repeatedly with the same accuracy. It was programmed and provided with the required material and then started.
+
+Advancements in Robotics
+
+The more advanced versions of robots seen now-a-days can perform operations adaptively, that is, changing the dimensions and other settings according to the requirements. One such advanced example of an adaptive robot is a stitching machine which can read the different dimensions of dress size on the personal card of a person and then cut the desired dress material and stitch it to the size fitting to the person.
+
+From a broad view, robotics is actually the continuous endeavor of robotics engineers to make machines capable of performing tasks as delicately as human can do and also the complicated, tough and repeated tasks which humans would prefer not to do. The advancements in the field robotics are made possible by use of microprocessors and microcontrollers with the intelligent combination of them with servo motors, sensors and actuators.
+
+Robotics: Future Scope
+
+Now the scope of robotics has widened and the robots which can only work on preprogrammed instructions irrespective of the environments they are working in are soon going to become outdated. The robots which are being developed these days can sense their surroundings and behave according to what they sense and make judgments on their own to how to respond. Far are not the days when robots would even sense and respond to feelings and could even express how they feel.
+
+Despite the great advancements in the field of robotics and continuous efforts to make robots more and more sophisticated to match the capabilities of human beings and even surpass them, still, from a very scientific and logical point of view, robots developed up till these days are no way closer to human beings.
+
+Scope and Limitations of Robots
+
+In basic robotics we design machines to do the specified tasks and in the advanced version of it robots are designed to be adaptive, that is, respond according to the changing environment and even autonomous, that is, capable to make decisions on their own. While designing a robot the most important thing to be taken in consideration is, obviously, the function to be performed. Here comes into play the discussion about the scope of the robot and robotics. Robots have basic levels of complexity and each level has its scope for performing the requisite function.
+
+The levels of complexity of robots is defined by the members used in its limbs, number of limbs, number of actuators and sensors used and for advanced robots the type and number of microprocessors and microcontrollers used. Each increasing component adds to the scope of functionality of a robot. With every joint added, the degrees of freedom in which a robot can work increases and with the quality of the microprocessors and microcontrollers the accuracy and effectiveness with which a robot can work is enhanced.
+
+Example
+
+To understand the scope for any robot of given complexity, we will discuss it with a very simple example. Consider a robot comprising of one member joined to the base with a revolute joint and a servo motor is connected to that revolute joint which is controlled by a microcontroller programmed to move the member through a certain degrees of rotation. This is the most basic robot which I could think of.
+
+Scope: The motion of this robotic arm is restricted to a circular path. Any task which can be done by the motion along the circular arc can be performed by this robot. Say, we want to draw arcs on sheets of papers or we want to cut them in circular pieces that can be achieved by fitting a pencil and a cutter to the end of this robotic arm.
+
+
+Limitation: Any point on this robotic arm can only move along a circular path. Any task involving motion other that the circular motion cannot be performed by such robot.

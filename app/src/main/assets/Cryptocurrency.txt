@@ -1,0 +1,36 @@
+What does P2P stand for?
+Password to Password
+Peer to Peer
+Product to Product
+Private Key to Public Key
+2
+What is a node?
+A type of cryptocurrency
+A Blockchain
+A computer on a Blockchain network
+An exchange
+3
+What are the different types of tokens?
+Platform
+Privacy
+Currency
+All of the above
+4
+Where do you store your cryptocurrency?
+Bank account
+Floppy Disk
+Wallet
+In your pocket
+3
+What is a miner?
+A type of blockchain
+An algorithm that predicts the next part of the chain
+A person doing calculations to verify a transaction
+Computers that validate and process blockchain transactions
+4
+Which is NOT a part of asymmetric encryption?
+Mining
+Public key
+Passphrase
+Private Key
+1

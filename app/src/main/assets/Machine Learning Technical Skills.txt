@@ -1,0 +1,29 @@
+Programming Languages like Python/C++/R/Java
+If you want a job in Machine Learning, you will probably have to learn all these languages at some point. C++ can help in speeding code up. R works great in statistics and plots, and Hadoop is Java-based, so you probably need to implement mappers and reducers in Java.
+
+Probability and Statistics
+Theories help in learning about algorithms. Great samples are Naive Bayes, Gaussian Mixture Models, and Hidden Markov Models. You need to have a firm understanding of Probability and Stats to understand these models. Use statistics as a model evaluation metric: confusion matrices, receiver-operator curves, p-values, etc.
+
+Data Modeling & Evaluation
+A key part of this estimation process is continually evaluating how good a given model is. Depending on the task at hand, you will need to choose an appropriate accuracy/error measure (e.g. log-loss for classification, sum-of-squared-errors for regression, etc.) and an evaluation strategy (training-testing split, sequential vs. randomized cross-validation, etc.)
+
+Machine Learning Algorithms
+Having a firm understanding of algorithm theory and knowing how the algorithm works, you can also discriminate models such as SVMs. You will need to understand subjects such as gradient decent, convex optimization, quadratic programming, partial differential equations and alike.
+
+Distributed Computing
+Most of the time, machine learning jobs entail working with large data sets these days. You cannot process this data using single machine, you need to distribute it across an entire cluster. Projects such as Apache Hadoop and cloud services like Amazon's EC2 makes it easier and cost-effective.
+
+Advanced Signal Processing Techniques
+Feature extraction is one of the most important parts of machine-learning. Different types of problems need various solutions, you may be able to utilize really cool advance signal processing algorithms such as: wavelets, shearlets, curvelets, contourlets, bandlets.
+
+Other skills:
+Update yourself:
+You must stay up to date with any up and coming changes. It also means being aware of the news regarding the development to the tools (changelog, conferences, etc.), theory and algorithms (research papers, blogs, conference videos, etc.).
+
+Read a lot:
+Read papers like Google Map-Reduce, Google File System, Google Big Table, The Unreasonable Effectiveness of Data.
+
+The next question you would have is, "What can I do to develop these skills?" Unless you already have a strong quantitative background, the road to becoming a Machine Learning Specialist will be a bit challenging – but not impossible.
+However, if it's something you're sincerely interested in, and have a passion for Machine Learning and lifelong learning, don't let your background discourage you from pursuing Machine Learning as a career.
+
+There is industry endorsed courses available for the same that you can pursue and excel in Machine Learning. You can check our website imarticus.org for more information.

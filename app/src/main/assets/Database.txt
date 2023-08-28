@@ -1,0 +1,36 @@
+The following are components of a database except ________ .
+user data
+metadata
+reports
+indexes
+1
+A ________ is a stored program that is attached to a table or a view.
+pseudofile
+embedded SELECT statement
+trigger
+None of the above is correct.
+3
+Which of the following are not done by Business Intelligence (BI) systems?
+Analyze past and current activities only
+Process and record transactions only
+Both of the above are correct.
+Neither of the above is correct.
+2
+When assessing the table structure of an acquired set of tables with data, accessing the validity of possible referential integrity constraints on foreign keys is (part of) the:
+first step.
+second step.
+third step.
+fourth step.
+3
+Where is metadata stored in MySQL?
+In the MySQL database metadata
+In the MySQL database metasql
+In the MySQL database mysql
+None of the above is correct.
+3
+Data scrubbing is which of the following?
+A process to reject data from the data warehouse and to create the necessary indexes
+A process to load the data in the data warehouse and to create the necessary indexes
+A process to upgrade the quality of data after it is moved into a data warehouse
+A process to upgrade the quality of data before it is moved into a data warehouse
+4

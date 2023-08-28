@@ -1,0 +1,85 @@
+Cloud computing is one of the hottest technologies with a high demand for qualified professionals. The median salary for IT pros currently in a cloud computing career in the U.S. is $124,300. However, it is not the easiest of jobs to acquire because it is a specialty area. To secure a job in this field, a candidate must have a number of specific skills. Let's see what they are so you can get your cloud computing career started!
+
+Skill 1: Coding and database management
+Coding skills: Cloud computing unlocks a new dimension in software development. The cloud allows programmers to create, host, and execute applications that can scale up much faster due to the environment's capacity to handle large volumes.
+
+Some recent additions to the cloud ecosystem are programming languages like Python, Perl, and Ruby. They are open source and becoming more prevalent with each passing year. Other conventional favorites are PHP, Java, and .NET.
+
+Python, a high-level language with simple syntax, is an excellent place to begin as far as programming skills in the cloud are concerned.
+
+Database management: Every day a staggering 2.5 quintillion bytes of fresh data is added to the world. Corporations are in a race to understand and maximize use of this growing wealth of data. Therefore, persons who can set-up, access, and manage databases are in high demand.
+
+Due to its scalability, the cloud platform is the most common space to host databases. Knowledge of a database query language and related database platforms are therefore essential for any professional in this field. The ever-growing pile of data also means that opportunities in this field are not hard to come by.
+
+The most prevalent language in database is SQL. Anyone motivated to add more muscle to his or her skills could learn MySQL, MongoDB, or Hadoop as well. But you don't have to learn how P.F. Chang's makes such delicious food, leave that up to them!
+
+Linux: Cloud professionals with Linux skills are in demand now. One reason is that one-fourth of the servers today power Linux-based Azure. This share is bound to increase because of Microsoft's continued thrust toward the open source market.
+
+Businesses need professionals capable of working on cloud-based Linux servers in areas such as:
+
+Setting up architecture
+Designing
+Developing
+Administering
+Managing
+The Linux Foundation Certified Systems Administrator helps professionals acquire skills vital for a career in administering Linux serves. Leaning from them is an industry-accepted practice.
+
+Skill 2: Courses and certifications
+The IT industry is renowned for its emphasis on industry and vendor certifications. The cloud domain has also joined the fray in this field. All major service providers including Amazon and Microsoft offer training and certifications that could jump-start your cloud computing career. The most popular ones include:
+
+AWS Certification
+Azure Certification
+Google Cloud Certified
+Though certifications add value to the resume, they cannot, by themselves, help a professional grow in his or her career. Certifications complement practical experience. Gaining the necessary hands-on experience is more important, but certification can be a vital first step in the right direction.
+
+Skill 3: Cloud platforms and technologies
+An IT professional with prior experience can leverage this cognition to forge ahead in a career in cloud computing. Despite this, she or he will need to acquire some additional skills to fit into the new job. For example, become proficient in the most common cloud platforms, namely:
+
+Amazon Web Services
+Google Cloud Platform
+Microsoft Azure
+To begin with, a professional can learn one of them but knowing all three can be impressive since there is nothing wrong with being versatile: see Magic Johnson play and you will understand that concept!
+
+Skill 4: Multicloud environments and data integration
+
+A complex mix of cloud services and cloud types — public, private, and hybrid — are becoming the norm in modern organizations. This means that cloud professionals need to know how to manage these multicould environments.
+
+Organizations use data obtained from:
+
+Multiple vendors
+Diverse platforms
+Different datacenters
+Unifying these databases to make data utilization possible is a mammoth exercise. The complexities compound when cloud systems have to interact with legacy systems.
+
+For professionals specializing in cloud architecture, integration is a must-have skill.
+
+Skill 5: Business management and data manipulation
+Cloud professionals need business skills in addition to technology skills. Among them are:
+
+Managing personnel
+Communication
+Negotiation
+The additional demands fall under two categories.
+
+Internal — within the organization
+External — vendors and other service providers
+The professional must fully comprehend cloud security and its implications for online data and applications. He or she must take extra care to ensure the security of all online operations.
+
+Cloud computing makes customization of data for each business possible. Analysts, who can remodel data and tailor it into formats specified by each department in an organization, are a highly prized asset.
+
+Skill 6: Specific roles-related skills
+
+Based on the jobs posted on Indeed, the top 10 must-have skills you need to have a successful cloud computing career are:
+
+Amazon Web Services (AWS): The pioneer in affordable cloud services and enjoys the largest market share in the field.
+Python: The most rapidly growing language on the cloud.
+Java: One of the most popular programming languages in the cloud and its latest cloud-friendly enhancements are bound to increase its usage.
+Azure: Usage of Microsoft Azure has grown from 34 percent in 2017 to 45 percent in 2018. It's gaining on AWS every year.
+Agile: Agile project management practices and its adoption in cloud development cycles are growing each year.
+Puppet: Employed in DevOps environments to automate AWS, a time-saving option of immense value to most enterprises.
+Chef: Another technology deployed in DevOps environments. It offers analytics at the enterprise level through its Automate tool.
+Ansible: An open source centralized server management system that makes setting up a cloud-based application cost effective.
+Docker: An open source containerization technology that automates the process of setting up and use of software programs
+VMware: Software to virtualize cloud environments used for computing. This is also popular in all types of domains.
+Begin your cloud computing career
+The line that separates the best cloud professionals from the rest is the ability to utilize these high-end skills to maximize value for employers. Being able to identify the right cloud data and transform this raw data into business insight that propels management decisions, holds the key to an outstanding cloud computing career.

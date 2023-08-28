@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/cardView"
+    android:clickable="true"
+    android:foreground="?android:attr/selectableItemBackground"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp">
+    <LinearLayout
+        android:layout_width="180dp"
+        android:layout_height="160dp"
+        android:orientation="vertical"
+        android:background="@color/Cardviewcolor">
+
+        <ImageView
+            android:id="@+id/ivDomain"
+            android:layout_width="match_parent"
+            android:layout_height="136dp"
+            android:background="@color/Cardviewcolor"
+            android:scaleType="centerCrop" />
+        <TextView
+            android:id="@+id/tvDomainName"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Domain Name"
+            android:textColor="@color/Footer"
+            android:textSize="13sp"
+            android:gravity="center"/>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

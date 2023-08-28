@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivityPost"
+    android:background="@drawable/generalbackground">
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/postlayout"
+            android:background="@drawable/border"
+            android:padding="20dp">
+            <TextView
+                android:id="@+id/domainHeading"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Domain Name"
+                android:textSize="30dp"
+                android:layout_centerHorizontal="true"
+                android:textColor="@color/whitetext"
+                />
+        <RelativeLayout
+            android:id="@+id/titleRL"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/border"
+            android:layout_below="@+id/domainHeading"
+            android:layout_marginTop="20dp">
+        <TextView
+            android:id="@+id/tvtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Title :"
+            android:textSize="30dp"
+            android:textColor="@color/whitetext"/>
+            <EditText
+                android:id="@+id/ettitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tvtitle"
+                android:hint="Enter Title Here"
+                android:textSize="20dp"
+                android:textColorHint="@color/whitetext"
+                android:textColor="@color/whitetext" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/descriptionRl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/titleRL"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/border">
+            <TextView
+                android:id="@+id/tvdescription"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Description :"
+                android:textSize="30dp"
+                android:textColor="@color/whitetext"/>
+            <EditText
+                android:id="@+id/etdescription"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tvdescription"
+                android:hint="Enter Description here"
+                android:textSize="20dp"
+                android:textColor="@color/whitetext"
+                android:textColorHint="@color/whitetext"/>
+        </RelativeLayout>
+        <Button
+            android:id="@+id/postmypost"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Post"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/descriptionRl"
+            android:layout_marginTop="20dp"/>
+        </RelativeLayout>
+    </androidx.core.widget.NestedScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DomainIntroduction"
+    android:background="@drawable/generalbackground">
+
+    <ScrollView
+        android:id="@+id/scrview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:padding="10dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/rlintro">
+
+            <com.google.android.youtube.player.YouTubePlayerView
+                android:id="@+id/domainThumbnail"
+                android:layout_width="match_parent"
+                android:layout_height="250dp">
+
+            </com.google.android.youtube.player.YouTubePlayerView>
+            <TextView
+                android:id="@+id/domainTitle1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Domain Name"
+                android:textSize="28sp"
+                android:textStyle="bold"
+                android:textColor="@color/whitetext"
+                android:layout_below="@+id/domainThumbnail"
+                android:layout_marginTop="30dp"
+                android:layout_centerHorizontal="true"/>
+            <TextView
+                android:id="@+id/intro"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Introduction"
+                android:textSize="28sp"
+                android:textStyle="bold"
+                android:textColor="@color/whitetext"
+                android:layout_below="@+id/domainTitle1"
+                android:layout_marginTop="30dp"
+                android:layout_centerHorizontal="true" />
+            <TextView
+                android:id="@+id/domainDescription"
+                android:layout_marginTop="30dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="This Part Will Contain Description"
+                android:textSize="18dp"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@id/intro"
+                android:textColor="@color/whitetext"
+                />
+        </RelativeLayout>
+
+
+    <Button
+        android:id="@+id/btnnext1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_keyboard_backspace_black_24dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:rotation="180"
+        android:drawableLeft="@drawable/ic_keyboard_backspace_black_24dp"
+        android:background="@color/Background"
+        android:layout_below="@+id/rlintro"/>
+    <Button
+        android:id="@+id/btnback1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_keyboard_backspace_black_24dp"
+        android:layout_alignParentBottom="true"
+        android:drawableLeft="@drawable/ic_keyboard_backspace_black_24dp"
+        android:background="@color/Background"
+        android:layout_below="@+id/rlintro"
+        />
+        </RelativeLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

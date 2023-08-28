@@ -1,0 +1,36 @@
+Unit of measuring power level referenced to 1mW is
+dBm
+sFm
+dFm
+dBs
+1
+Property of crystal whereby a changing mechanical stress produces a voltage across crystal is called
+hall effect
+gauss effect
+Piezoelectric Effect
+toxify
+3
+Process of limiting output range of an amplifier or other circuit is called
+bounding
+breakdown
+bandwidth
+modulation
+1
+Activating input of some electronic devices and circuits are termed as
+clock
+trigger
+trimmer
+state
+2
+Diode drop for silicon is
+0.4V
+0.6V
+0.7V
+1.4V
+3
+Capacitance which represents change in charge stored in depletion region with respect to a change in junction voltage is called
+transition capacitance
+internal capacitance
+diffusion capacitance
+external capacitance
+1

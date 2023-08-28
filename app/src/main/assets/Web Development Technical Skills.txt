@@ -1,0 +1,114 @@
+Web development is one of the fastest growing industries around. In fact, it’s projected to grow 13% between 2016 and 2026.
+
+This figure also suggests that there are (and will be) plenty of jobs to go around. But do you have the skills to stand out from the competition and land the job of your dreams?
+
+There are many skills you’ll need to develop and create successful websites. Here are 7 of the most important web developer skills you need!
+
+1. HTML/CSS
+As a web developer, you’ll need to understand the basics of coding and markup language.
+
+Of all markup languages, HyperText Markup Language (HTML) is the standard.
+
+HTML forms practically every web page on the Internet as we know it. How a website functions depends on the way a developer writes the HTML.
+
+But for your website to actually display as a website, you’ll rely on CSS.
+
+You Can’t Write HTML Without CSS
+Cascading Style Sheets (CSS) interpret documents written in a markup language. They’re a more stylized presentation of the HTML language.
+
+CSS also describes how an HTML document will look visually as a website. It lays the bricks for a website’s font, colors, and overall layout.
+
+Think of it this way: HTML builds the skeleton of a website. CSS gives the website its style and look.
+
+The most basic web developer skills call for a mastery of HTML and CSS. Don’t overlook the importance of them!
+
+2. JavaScript
+As you master HTML and CSS, eventually you’ll want to learn JavaScript.
+
+JavaScript is a higher level programming language. It makes websites more interactive and functional.
+
+Create Websites for the Future
+The web development industry is taking off. Standards are growing higher and more rigid. And with that, there will be higher expectations for the websites you make and the clients you work for.
+
+JavaScript will allow you to create better experiences for web users. With JavaScript, you can write special features directly onto your sites. These include (but aren’t limited to) search bars, social media share buttons, and videos.
+
+JavaScript complements HTML. While HTML forms a basic web page, JavaScript gives it more life and functionality.
+
+3. Photoshop
+As a web developer, you’ll want to know your way around Photoshop. It’ll not only make your life easier, but it’ll help you perform better and faster.
+
+You’ll have plenty of fun editing, designing, and stylizing your websites with Photoshop. You may even design a handful of banners and logos for clients throughout your career.
+
+But your Photoshop skills will extend far beyond appearances.
+
+As you master Photoshop, you’ll not only learn how to translate and code designs. You’ll also create plenty of mockup websites.
+
+So, in other words, you’ll primarily use Photoshop for planning websites.
+
+4. WordPress
+Nearly 75 million websites function on WordPress alone. That’s more than 25% of the Internet altogether.
+
+WordPress is a free content management system. It’s excellent for both beginners and for established web developers, as well.
+
+It’s relatively easy to use since you can edit and modify web pages, add plugins, and run tests for bugs. There’s also the Yoast feature which will help you with SEO.
+
+You’ll want to develop your website building skills using other platforms. But WordPress is not only a standard but a linchpin in the world of web development.
+
+5. Analytical Skills
+If your web developer skills are strong, you’ll create successful websites. But there’s a marketing side to the job that few people truly understand.
+
+Of course, the most successful websites are the most functional.
+
+But consumer behaviors are always changing. So, your design, coding, and development skills will always evolve to satisfy the ever-changing consumer.
+
+Therefore, web developers need a strong understanding of consumers. Especially web consumers.
+
+You’ll encounter many kinds of audiences, niche markets, and clients throughout your career. If you can understand consumers on a whole, it will only help you create websites that sell.
+
+Know Your Audience
+There are a number of ways to understand web consumers. But the most concrete way to understand them is to hone in on their online behaviors.
+
+And that’s where web analytical tools come in.
+
+Luckily, there are plenty of tools available on the market to help you gather web statistics. There’s Google Analytics, MOZ Keyword Explorer, and SEMRush, for example.
+
+With web statistics, you’ll better understand your specific target audiences. Web statistics will show you which keywords users search for and how long they stay on your websites.
+
+It’s your access to the minds and interests of your target audiences. And with all this knowledge, you can create more appealing websites.
+
+6. SEO
+Search engine optimization (SEO) is the driving force behind modern day marketing.
+
+These days, websites need SEO to attract traffic and secure leads. Most modern consumers find products and services through online searches. Websites that don’t implement SEO won’t show up high enough on search engine result pages.
+
+Page upload speed, domain credibility, and keyword content are just some of the SEO skills that web developers can (and should) learn.
+
+Drive Up Traffic to Every Website You Create
+Web developers can apply SEO to help their websites rank better and garner more traffic.
+
+There are parts of SEO that don’t necessarily require web development and design. But you can extend your web developer skills into the realms of blogs and social media.
+
+For example, Jezweb is a web development company that primarily serves as WordPress websites. But their web developers also have blog, SEO, and content writing skills.
+
+The demand for SEO is growing. More businesses are looking to make SEO part of their marketing campaigns. Because of this, your skills should go beyond the technical side of web development.
+
+7. Responsive Design
+More and more modern consumers use their mobile devices to conduct online searches. In fact, nearly 60% of online searches occur on mobile devices.
+
+Now more than ever, websites need to adapt to this trend.
+
+When websites aren’t compatible with mobile devices, they don’t display or function well. And when a website isn’t functional, web users normally click away and go to a competitive site.
+
+Make Websites for Optimal User Experience
+By learning responsive design, you can make your websites compatible with mobile devices.
+
+That way, web users will enjoy your websites more. You’ll have happy clients. You’ll have lower bounce rates. And you’ll have better SERPs rankings.
+
+Become a Master of Web Developer Skills
+As technology advances, the web development industry will only grow exponentially.
+
+There are web development jobs all over the world. And by mastering these 7 skills, you can compete for the highest paying jobs!
+
+Are you ready to discover the possibilities in a web development career?
+
+To learn more about web developer skills and how to stand out from the competition, visit our careers blog today!

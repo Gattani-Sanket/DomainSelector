@@ -1,0 +1,36 @@
+Which one of the following is NOT desired in a good Software Requirement Specifications (SRS) document?
+Functional Requirements
+Non-Functional Requirements
+Goals of Implementation
+Algorithms for Software Implementation
+4
+The physical devices of a computer
+Software
+Package
+Hardware
+System Software
+3
+Software Package is a group of programs that solve multiple problems.
+True
+False
+
+
+2
+ ____________ refer to renewing or changing components like increasing the main memory, or hard disk capacities, or adding speakers, or modems, etc.
+Grades
+Prosody
+Synthesis
+Upgrades
+4
+Which of the following is designed to control the operations of a computer?
+Application Software
+System Software
+Utility Software
+User
+2
+ Which of the following is not an example of system software?
+Language Translator
+Utility Software
+Communication Software
+Word Processors
+4

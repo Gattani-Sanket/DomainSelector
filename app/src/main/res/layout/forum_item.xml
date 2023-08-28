@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/Cardviewcolor"
+    android:id="@+id/forumRL"
+    android:layout_margin="10dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/ForumDomainLogo"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:src="@drawable/ic_launcher_background"/>
+    <TextView
+        android:id="@+id/ForumDomainName"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:layout_toRightOf="@+id/ForumDomainLogo"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="Domain Name"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:textColor="@color/Textcolor"/>
+</RelativeLayout>

@@ -1,0 +1,36 @@
+Point out the wrong statement :
+The massive scale of cloud computing systems was enabled by the popularization of the Internet
+Soft computing represents a real paradigm shift in the way in which systems are deployed
+Cloud computing makes the long-held dream of utility computing possible with a pay-as-you-go, infinitely scalable, universally available system
+All of the mentioned
+2
+Which of the following benefit is related to creates resources that are pooled together in a system that supports multi-tenant usage ?
+ On-demand self-service
+ Broad network access
+ Resource pooling:
+ All of the mentioned
+1
+ All cloud computing applications suffer from the inherent _______ that is intrinsic in their WAN connectivity.
+ propagation
+ latency
+ noise
+ all of the mentioned
+2
+Which of the following is one of the unique attribute of Cloud Computing ?
+ utility type of delivery
+ elasticity
+ low barrier to entry
+ all of the mentioned
+4
+Point out the correct statement :
+ Service Level Agreements (SLAs) is small aspect of cloud computing
+ Cloud computing does not have impact on software licensing
+ Cloud computing presents new opportunities to users and developers
+ All of the mentioned
+3
+A service that concentrates on hardware follows the _________ as a Service model.
+ IaaS
+ CaaS
+ PaaS
+ All of the mentioned
+1

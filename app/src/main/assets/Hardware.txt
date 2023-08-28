@@ -1,0 +1,36 @@
+A Supervisor is a central component of
+Software
+Operating System 
+Device Driver 
+Utilities
+2
+The component of an system software which enhance existing functions in a computer is called
+Device Driver
+Operating System
+Device Driver
+Utilities
+4
+From what location are the 1st computer instructions available on boot up?
+ROM BIOS
+CPU
+boot.ini
+CONFIG.SYS
+1
+What could cause a fixed disk error.
+No-CD installed
+bad ram
+slow processor
+Incorrect CMOS settings
+4
+When installing PCI NICS you can check the IRQ availability by looking at
+dip switches
+CONFIG.SYS
+jumper settings
+motherboard BIOS
+4
+With respect to a network interface card, the term 10/100 refers to
+protocol speed
+a fiber speed
+megabits per seconds
+minimum and maximum server speed
+3

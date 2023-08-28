@@ -1,0 +1,36 @@
+Permeability of free space is also known as _________
+Magnetic constant
+Electric constant
+Electrostatic constant
+Magnetostatic constant
+1
+A substance whose permeability is less than the permeability of free space is?
+Diamagnetic
+Paramagnetic
+Ferromagnetic
+Not a magnetic substance
+1
+Calculate the magnetic field strength if the magnetic flux density is 4*piT.
+10-7/16*pi2A/m
+10-7A/m
+107A/m
+10-7A
+3
+The resistance of a field coil may be correctly measured by using
+a voltmeter and an ammeter
+Schering bridge
+a Kelvin double bridge
+a Maxwell bridge
+1
+In a 34, 4-pole, 50-Hz induction motor running with 1455 rpm, the speed of rotor field with respect to the rotor struc ture is ?rpm.
+zero
+1455
+45
+1500
+3
+In a dc generator, the brushes on the commutator are shifted from geometrical neutral positions to
+obtain highest generator voltage
+avoid sparking.
+obtain highest generator efficiency
+all the above
+2

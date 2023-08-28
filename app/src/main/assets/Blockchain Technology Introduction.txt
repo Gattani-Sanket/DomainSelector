@@ -1,0 +1,56 @@
+Welcome
+Blockchain has been described as one of the most significant technological advances in modern history, potentially on a par with the internet, which has led to it being dubbed "The Internet 3.0". Despite the incredible potential of blockchain to reshape the world as we know it, there is still little understanding of what it is, what it does and why it is so revolutionary.
+
+
+The struggle in understanding blockchain technology is partly down to the fact that it requires a grasp of certain terms and how technologies are used. There is arguably a lack of information that breaks down the subject without expecting an understanding of considerable technical terminology. The Lisk Academy has been created to change this.
+
+The goal of the Blockchain Basics module of the Lisk Academy is to have a student be able to explain blockchain technology to anyone else, after less than 10 minutes of reading, while also offering the chance to learn about the technology in greater detail.
+
+Blockchain Basics opens with What is Blockchain?, a broad and easily understood explanation of blockchain technology, as well as the history of value itself. Having an understanding of the value is especially important in grasping how blockchain and cryptocurrencies have the potential to reshape the financial industry.
+
+There is also an ELI5 (Explain Blockchain Like I'm 5 Years Old) segment in this part of the Lisk Academy. This is the simplest part of the Lisk Academy. It allows anyone to grasp the foundations of blockchain technology without any technical knowledge.
+
+How Does Blockchain Work? is a deeper dive into the technologies upon which blockchain is built. In this part of the Academy a reader can begin to grasp the individual pieces that make up blockchain and how they work together. There still remains a focus on keeping these technical aspects of the technology as simple as possible.
+
+Benefits of Blockchain explains the values that blockchain supports. For many people blockchain is more than a technology, it represents the potential to create a new, fairer system of transaction and interaction. This part of the Academy examines the individual principles that blockchain enforces and how they contribute to such ideas.
+
+Blockchain Use Cases explains use cases for blockchain, both current and future, and how it could improve the world that we live in, sooner than many people might expect. This demonstrates that blockchain technology has real use cases today and that due to how superior it is to the systems we currently have, it is only a matter of time before it becomes widely adopted around the world.
+
+After completing all of these chapters a student of the Lisk Academy will have a more detailed understanding of blockchain technology than the vast majority of people in the world.
+
+What is Blockchain?
+A blockchain is a public ledger of information collected through a network that sits on top of the internet. It is how this information is recorded that gives blockchain its groundbreaking potential.
+
+Blockchain technology is not a company, nor is it an app, but rather an entirely new way of documenting data on the internet. The technology can be used to develop blockchain applications, such as social networks, messengers, games, exchanges, storage platforms, voting systems, prediction markets, online shops and much more. In this sense, it is similar to the internet, which is why some have dubbed it “The Internet 3.0”.
+
+The information recorded on a blockchain can take on any form, whether it be denoting a transfer of money, ownership, a transaction, someone's identity, an agreement between two parties, or even how much electricity a lightbulb has used. However, to do so requires a confirmation from several of devices, such as computers, on the network. Once an agreement, otherwise known as a consensus, is reached between these devices to store something on a blockchain it is unquestionably there, it cannot be disputed, removed or altered, without the knowledge and permission of those who made that record, as well as the wider community.
+
+
+As nothing that is recorded on a blockchain can be changed, it is important to be absolutely sure where you are sending money. On a blockchain, once a transaction is sent it is sealed and cannot be reversed.
+
+Rather than keeping information in one central point, as is done by traditional recording methods, multiple copies of the same data are stored in different locations and on different devices on the network, such as computers or printers. This is known as a peer to peer (P2P) network. This means that even if one point of storage is damaged or lost, multiple copies remain safe and secure elsewhere. Similarly, if one piece of information is changed without the agreement of the rightful owners, there are countless other examples in existence, where the information is true, making the false record obsolete.
+
+
+Why is it Called “Blockchain”?
+Blockchain owes its name to how it works and the manner in which it stores data, namely that the information is packaged into blocks, which link to form a chain with other blocks of similar information.
+
+It is this act of linking blocks into a chain that makes the information stored on a blockchain so trustworthy. Once the data is recorded in a block it cannot be altered without having to change every block that came after it, making it impossible to do so without it being seen by the other participants on the network.
+
+Distributed ledgers have 3 key attributes:
+
+Recorded: stored information is time-stamped
+Transparent: anyone can see the ledger of transactions.
+Decentralized: the ledger exists on multiple computers, often referred to as nodes.
+Normally, each block contains the data it is recording, for example a transaction like 1 Lisk token being sent from Alice to Bob, as well as timestamps of when that information was recorded. It will also include a digital signature linked to the account that made the recording and a unique identifying link, in the form of a hash (think of it as a digital fingerprint), to the previous block in the chain. It is this link that makes it impossible for any of the information to be altered or for a block to be inserted between two existing blocks. In order to do so all following blocks would need to be edited too. As a result, each block strengthens the previous block and the security of the entire blockchain because it means more blocks would need to be changed to tamper with any information.
+
+When combined, all of these create an unquestionable storage of information, one that cannot be disputed or declared to be untrue.
+
+
+Who Created Blockchain?
+The first recorded mention of blockchain technology came in a document, or whitepaper, published in 2008 by the mysterious founder or founders of Bitcoin, only known as Satoshi Nakamoto. Speculation about the true identity of this undeniably brilliant coder has continued to this day, with Nakamoto claiming in early correspondences to be a man living in Japan, born on 5th April 1975.
+
+However, due to his decision to document Bitcoin in English and his mastery of the language, the general belief in the blockchain community is that Nakamoto is of non-Japanese descent and either European or North American. As blockchain, and as such the Bitcoin network, is transparent, anyone can view Satoshi Nakamoto's Bitcoin holding. He is known to currently hold roughly one million Bitcoins.
+
+There are several theories as to why Satoshi Nakamoto decided to remain anonymous, however the general consensus is that he was a timid developer who simply did not wish for the attention that would have undoubtedly come with creating such a disruptive technology.
+
+It is also worth knowing that Satoshi Nakamoto did not build every aspect of blockchain from scratch. In fact, none of the technologies used in blockchain were particularly new and had been around for several years. However, it is when they are used in combination with one another that they create the revolutionary offering that is blockchain technology. 

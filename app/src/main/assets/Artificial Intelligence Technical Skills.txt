@@ -1,0 +1,48 @@
+Basically, to grab an excellent job in the AI field, you require a graduate degree (MS, or Ph.D.) in Computer Science. Also, professional engineers with a BS in Computer Science can also make a smooth switch to this field with a few years of experience.
+
+But the real challenge for programmers is to make this transition as smooth and natural as possible. To make this difficult task easier, let's take a look at the nine major skills required for this transition.
+
+1. Solid Mathematical and Algorithms Knowledge
+An ideal candidate for the AI domain must be an expert in a broad set of algorithms and applied math. Such candidates should be well-versed with superb problem solving and analytical skills which could help them in performing the given tasks in an efficient manner.
+
+In the words of Fred Sadaghiani who is the CTO of a leading digital trust provider Sift Science, "We are looking primarily for people who have a principled understanding of the statistics, probabilities, and math necessary to grasp the problem. That’s the foundation of this all.” According to him, this basic foundation allows ML professionals to identify which algorithms best address a problem and the ways to optimize the outcomes.
+
+2. Well-Versed With Probability and Statistics
+Software professionals need to have a detailed knowledge of probability and statistics to understand different AI models such as Hidden Markov Models, Naive Bayes, Gaussian Mixture Models, etc. These theories help them in learning about complex algorithms.
+
+Statistics is a prerequisite for programmers to be efficient as AI professionals. They should be well-versed with navigating the basics of statistical methods and using it as a model evaluation metric.
+
+3. Basic Expertise In Programming Languages (Python/C++/R/Java)
+For becoming proficient in AI and ML, its mandatory for engineers to learn programming languages such as Python, C++, R, Java, etc. at some point. Python makes it easier for them to create complex algorithms. C++ speeds up the entire coding process.
+
+Basic expertise in R is needed to be efficient in stats and plots. In addition, aspiring AI professionals require Java to implement mappers and reducers. One of the easiest ways to master these languages could be to explore different open source libraries.
+
+For example, Scikit-learn is considered as a great resource for Python professionals who want to make the transition into AI and ML. Similarly, Spark, WEKA, and Rapidminder are ideal for Java experts who aspire to enter the magical AI domain.
+
+4. Efficiency In Distributed Computing
+Majority of the AI jobs require programmers to deal with large data sets which they can't process using a single machine. Therefore, it has to be equally distributed across an entire cluster. This makes it essential for the engineers to be efficient in distributed computing so that to sharpen their skills as an AI professional.
+
+5. Good Command Over Unix Tools
+Since most of the processing in AI will happen on Linux-based machines, programmers need to master different Unix tools such as awk, grep, cat, sort, find, cut, tr, etc. They should be well-versed with their functions and ways to utilize them well.
+
+6. Expanding The Knowledge Of Advanced Signal Processing Techniques
+ML has feature extraction as one of its integral aspects. For mastering this, engineers need to be familiar with solving different problems through advanced signal processing algorithms such as bandlets, wavelets, curvelets, shearlets, contourlets, etc.
+
+In addition, they should have a core understanding of time-frequency analysis and discover ways to implement it for their problems. Also, they should be well-versed with concepts like Convolution and Fourier Analysis.
+
+7. Innate Curiosity and Creativity
+In order to excel in the AI domain, programmers need to have a curious and creative mindset. This helps them in discovering novel ways to approach specific problems and coming up with creative solutions for cracking them. Also, it allows them to grab abstract information efficiently and be clear with the possibilities to process it well.
+
+8. Ability To Stay Updated and Grasp New Concepts Quickly
+Aspiring AI professionals must have a passion to keep themselves updated with the latest developments in the tech industry. They should put efforts in order to update their skills and be familiar with the advanced development tools, theories, algorithms, etc.
+
+In addition, they should actively participate in various online forums, blogs, and communities which are specifically developed to cater to AI professionals. Also, they should go through online AI tutorials, conferences, video courses, etc. to enhance their niche expertise in the concerned field.
+
+There are some extremely popular papers available online such as Google Big Table, Google Map Reduce, The Unreasonable Effectiveness of Data, and Google File System. Programmers should read these for sharpening their AI knowledge. Also, they can go through various free Machine Learning digital books to grab a good job in the thrilling AI development domain.
+
+9. Perseverance and Patience
+AI and ML are fairly new technologies where the experts are still striving hard to discover new tools and methods for making the community much more efficient. This is why engineers should have a persistent attitude which is beneficial for making them patient enough to cope up with several months and countless iterations to achieve accurate results.
+
+They should be passionate and pumped up with a spirit of never giving up on trying hard to up-level their skills to stay abreast of new developments and stay on the forefront in the AI domain.
+
+Finally, it's important for engineers to be zealous about their new career move. They should feel confident enough to make a smooth transition into the AI development domain and explore this highly dynamic and promising field.

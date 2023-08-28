@@ -1,0 +1,36 @@
+The sensors are classified on the basis of
+Functions
+Performance
+Output
+All of the above
+4
+The following is not a static performance parameter to be looked into before selecting a parameter.
+Range
+Deflection
+Stability
+Error
+2
+The following is (are) type(s) of Hall Effect sensors.
+Linear Hall Effect sensor
+Threshold Hall Effect sensor
+Both
+None of the above
+3
+A piezo-electrical crystal generates voltage when subjected to ____ force.
+Electrical
+Mechanical
+Gravity
+All of the above
+2
+Any radiation of appropriate wavelength fall on the depletion layer of p-n junction develops a potential difference between the junction is working principle of
+Hall Effect sensor
+Proximity sensor
+Light sensor
+All of the above
+3
+Following acts as detector in Optical sensor
+Light emitting diode
+Photo diode 
+Transistor
+All of the above
+2

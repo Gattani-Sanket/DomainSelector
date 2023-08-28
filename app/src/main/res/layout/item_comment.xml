@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/Cardviewcolor"
+            android:padding="20dp">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/comuserphoto"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/ic_launcher_background"/>
+            <TextView
+                android:id="@+id/comusername"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/comuserphoto"
+                android:layout_marginLeft="30dp"
+                android:text="username"
+                android:textColor="@color/Textcolor"
+                android:textSize="40dp"
+                android:textStyle="italic"/>
+            <TextView
+                android:id="@+id/comtime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/comusername"
+                android:text="posttime"
+                android:textColor="@color/Textcolor"
+                android:textSize="15dp"
+                android:layout_toRightOf="@+id/comuserphoto"
+                android:layout_marginLeft="30dp"/>
+            <TextView
+                android:id="@+id/comAnswer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/comtime"
+                android:text="Title will be displayed here"
+                android:textSize="30dp"
+                android:layout_marginTop="30dp"
+                android:textColor="@color/Textcolor"
+                />
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+
+
+</LinearLayout>

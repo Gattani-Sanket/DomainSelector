@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivityInterestQuestion"
+    android:background="@drawable/generalbackground">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <!-- TODO: Update blank fragment layout -->
+
+            />
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cvQuestion"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                app:cardCornerRadius="15dp"
+                android:background="@color/Cardviewcolor"
+                android:layout_marginTop="60dp"
+
+                >
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/Cardviewcolor"
+                    >
+
+                    <TextView
+                        android:id="@+id/tvquestion"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:text="Question???"
+                        android:textSize="25dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="5dp"
+                        android:textColor="@color/Textcolor"
+                        />
+                    <RadioGroup
+                        android:id="@+id/optionRG"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/tvquestion">
+                        <RadioButton
+                            android:id="@+id/option1rb"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Option 1"/>
+                        <RadioButton
+                            android:id="@+id/option2rb"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Option 2"/>
+                        <RadioButton
+                            android:id="@+id/option3rb"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Option 3"/>
+                        <RadioButton
+                            android:id="@+id/option4rb"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Option 4"/>
+                    </RadioGroup>
+                </RelativeLayout>
+
+            </androidx.cardview.widget.CardView>View
+            <Button
+                android:layout_below="@+id/cvQuestion"
+                android:id="@+id/check"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="next"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="10dp"
+                />
+        </RelativeLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

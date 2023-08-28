@@ -1,0 +1,69 @@
+Sherlock Holmes is the world's greatest fictional detective. Though all that remains of 221/B Baker Street is ensconced in a bank in London, Sir Arthur Conan Doyle's legacy remains alive and well today.
+
+The most fascinating trait that Holmes possessed was that he was a master of deduction. He saw what everyone else saw, and then some, which allowed him to arrive at vastly different conclusions. H attributed his success to the following skills: observation, understanding of human behavior, knowledge of crime, constant experimentation and an ability to connect seemingly random pieces of information so that they formed a cohesive whole.
+
+These five skills made Sherlock Holmes a legendary detective. He could handle any case and come out on top. He was approaches by kings and governments, princesses and paupers – and he was able to help them all.
+
+To be a top-rung Big Data analyst, you need to have five very similar skills, which will be outlined in this article.
+
+BIG DATA VS. DATA SCIENCE
+Before we go further, it is important to differentiate between big data and data science. Big data is the application of specialized data science tools to huge data sets.
+
+To learn more about this difference, make sure you read our post on Big Data vs Data Science vs Analytics.
+
+THE IT ADVANTAGE
+Having a strong information technology (IT) background is beneficial for a big data analyst. IT professionals are skilled at information handling and programming. This gives them a leg up on the competition.
+
+Initially at least, IT professionals are better equipped to handle the programmatic and computational aspects of big data analytics than their non-IT peers, and can afford to skip the basics. They can also learn new tools such as BigSQL, Hive, Pig etc. with greater ease than non-IT professionals.
+
+ 
+
+Non-IT professionals, however, shouldn't worry too much. The path to becoming a good big data analyst is both an art and a science. Core skills of analysing, visualising and communicating data are not limited to IT professionals. It is challenging for everyone to derive the right insights and communicate them effectively. Your comfort with mathematics and statistics can level the playing ground.
+
+In short, anybody can become a Big Data analyst. All they need to do is master the five essential skills every data analyst should know.
+
+Essential big data skill #1: Programming
+Learning how to code is an essential skill in the Big Data analyst's arsenal. You need to code to conduct numerical and statistical analysis with massive data sets. Some of the languages you should invest time and money in learning are Python, R, Java, and C++ among others. The more you know, the better–just remember that you do not have to learn every single language out there.
+
+As every IT professional can tell you, if you know one language well, you can easily pick up the rest. Hands on experience with these languages and programming will help in your learning effort. Finally, being able to think like a programmer will help you become a good big data analyst.
+
+Tip: If you're looking to start learning a programming language, start with Python.
+
+Another important aspect of programming entails interacting with databases through queries and statements. Databases, instructional languages and big data tools should be a part of your repertoire. Tools such as R, HIVE, SQL, Scala, HIVE etc. are something that you should be comfortable with.
+
+Essential big data skill #2: Quantitative Skills
+As a big data analyst, programming helps you do what you need to do. But, what are you supposed to do?
+
+The quantitative skills you need to be a good big data analyst answers this question. For starters, you need to know multivariable calculus and linear and matrix algebra. You will also need to know probability and statistics
+
+By learning these skills, you will have a strong foundation in numerical analysis.
+
+Numerical and statistical analysis are core quantitative skills that every good big data analyst needs. This knowledge enables the use of concepts such as neural networks and machine learning.
+
+Essential big data skill #3: Multiple Technologies
+Programming is an essential big data analysis skill. What makes it extra special, though, is the versatility. You can, and must, learn multiple technologies that will help you grow as a Big Data analyst.
+
+But, technologies are not limited to programming alone. The range of technologies that a good big data analyst must be familiar with is huge. It spans myriad tools, platforms, hardware and software. For example, Microsoft Excel, SQL and R are basic tools. At the enterprise level, SPSS, Cognos, SAS, MATLAB are important to learn as are Python, Scala, Linux, Hadoop and HIVE.
+
+The actual technologies that you use will depend upon the environment you are working in. It will also vary based on the requirements of your company and project.
+
+The more technologies you are familiar with, the more versatile you will be.
+
+Essential big data skill #4: Understanding of Business & Outcomes
+Analysis of data and insights would be useless if it cannot be applied to a business setting. All big data analysts need to have a strong understanding of the business and domain they operate in.
+
+Domain expertise can magnify the impact of the big data analyst's insights.
+
+Big data analysts can identify relevant opportunities and threats based on their business expertise. Consider the introduction of iPads. When they were introduced, the digital publishing industry was all set for disruption. But, outsiders could not realize the transformation that was possible. It took industry expertise and connections to usher in the era of digital publishing.
+
+Domain expertise enables big data analysts to communicate effectively with different stakeholders. Consider recommending that new employees be added to a factory floor. When pitching it to the CFO it could be positioned as a net increase in top line margins. It may need to be repositioned as a reduction in quality test failures to the operations head. Domain expertise makes these conversations easier and more effective.
+
+Essential big data skill #5: Interpretation of Data
+Of all the skills we have outlined, interpretation of data is the outlier. It is the one skill that combines both art and science. It requires the precision and sterility of hard science and mathematics but also call for creativity, ingenuity, and curiosity.
+
+In most companies, a large majority of employees don't understand their own company's data. In fact, most employees do not even have a clear idea of where all the data is. These employees often rely on preconfigured reports and dashboards to derive their insights. Unfortunately, this approach is dangerous. It does not provide a holistic view of the data procurement and analysis process.This problem is often compounded by the fragmentation of data systems. As companies grow inorganically, different data silos merge, resulting in a confusing mess.
+
+However, by asking the right questions, a Big Data analyst can embark on a proper exploration of the raw data. The right questions and discoveries can change the course of business for an organization.
+
+In Conclusion
+Becoming a big data analyst requires the mastery of the five essential skills. IT professionals have an advantage in learning new programming languages and technologies. Others will need to put in more effort to learn computing skills and technologies. But, softer skills such as business experience and domain expertise level the playing ground.

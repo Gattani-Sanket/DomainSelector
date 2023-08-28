@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivityProfile"
+    android:background="@drawable/generalbackground">
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <androidx.cardview.widget.CardView
+        android:id="@+id/profilecard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        app:cardBackgroundColor="@color/Cardviewcolor"
+        android:layout_margin="20dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/profillephoto"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/ic_launcher_background"
+                android:layout_marginTop="50dp"
+                android:background="@color/Cardviewcolor"
+                />
+            <Button
+                android:id="@+id/saveImage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Save Photo"
+                android:layout_below="@id/profillephoto"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:layout_centerHorizontal="true"
+                />
+
+
+
+            <TextView
+                android:id="@+id/labelusername"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="30dp"
+                android:text="Username:"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:layout_below="@+id/saveImage"/>
+            <TextView
+                android:id="@+id/profileusername"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sanket"
+                android:textSize="30dp"
+                android:layout_marginLeft="170dp"
+                android:gravity="center"
+                android:layout_below="@+id/saveImage"/>
+
+
+
+            <TextView
+                android:id="@+id/labelemail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="30dp"
+                android:text="Email:"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:layout_below="@+id/labelusername"
+                android:layout_marginTop="10dp"/>
+            <TextView
+                android:id="@+id/profilleemail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sanket"
+                android:textSize="30dp"
+                android:layout_marginLeft="100dp"
+                android:gravity="center"
+                android:layout_below="@+id/labelusername"
+                android:layout_marginTop="10dp"/>
+
+
+            <TextView
+                android:id="@+id/labelmob"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="30dp"
+                android:text="Mobile:"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:layout_below="@+id/profilleemail"
+                android:layout_marginTop="10dp"/>
+            <TextView
+                android:id="@+id/profilemob"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sanket"
+                android:textSize="30dp"
+                android:layout_marginLeft="120dp"
+                android:gravity="center"
+                android:layout_below="@+id/profilleemail"
+                android:layout_marginTop="10dp"/>
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>
+</ScrollView>
+
+    </RelativeLayout>

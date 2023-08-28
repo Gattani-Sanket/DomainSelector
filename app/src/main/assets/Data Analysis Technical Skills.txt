@@ -1,0 +1,48 @@
+Today’s companies are swimming in data, thanks to rapid advances in data ingestion, unification, and storage. This trend presents many opportunities for businesses to improve their strategies and operations — for example, by using customer data to deliver more tailored, personalized experiences. The data revolution also generates intense competitive pressure, with businesses racing to outdo their rivals by using data in new and innovative ways.
+
+A mountain of raw data, however, has little value for decision makers. As a result, there is soaring demand for specialists who can help executives, managers, and others understand what all of this data means for their businesses.
+
+Enter the data analyst. Data analysts can sift through data, find meaningful patterns and present decision makers with useful, actionable insights.
+7 Key Data Analyst Skills for the Future
+
+Such work enables companies to base their choices on objective knowledge, rather than hunches or intuition. At the most technically advanced level, data analysts may become true data scientists, working with large datasets and tackling sophisticated problems such as developing new algorithms for machine learning.
+
+So what skills do data analysts need as the business world moves into a data-driven future?
+
+Critical Thinking and Problem Solving
+High-level data analysts know how to conduct experiments, test hypotheses and make causal inferences from the data at their disposal. More broadly, they can think creatively about problems — for example, how to translate decision makers’ business-related questions into useful questions about data. As software takes over a growing number of tasks, the value of data analysts may depend more and more on their ability to apply human judgment to business challenges. Machine learning (ML) and artificial intelligence (AI) may therefore make critical thinking and problem-solving skills even more crucial in the future.
+
+Statistics
+Data analytics revolves around the statistical analysis of data. Strong quantitative skills are thus an essential part of the data analyst’s toolkit, although different jobs may require different levels of mathematical understanding. At a minimum, professionals in this field should have a solid grasp of basic statistics; senior data analysts may be skilled in techniques such as multivariate A/B testing, predictive modeling, trend analysis, and cluster analysis. A theoretical understanding of these concepts is not enough, as analysts need to know how to apply these skills to answer practical business questions.
+
+Data Management, Querying & Analysis
+Simply put, data analysts have to be comfortable working with data. That means they have to be skilled at collecting, organizing and manipulating large amounts of data using databases and other technologies. Above all, they need to understand how to find and extract the specific data they need to perform their analyses. Knowledge of SQL, or Structured Query Language, is virtually a universal requirement: SQL allows analysts to code their own customized queries and pull extremely detailed data from relational databases. To work with large datasets using frameworks such as Hadoop, analysts might have to learn an additional query language such as HiveQL. Given the high rate of change in the field, data analysts have to be adept at upgrading their data skills and learning new data technologies.
+
+Programming
+A strong knowledge of programming is useful and often necessary, since analysts may have to solve problems that ready-made software is not powerful or flexible enough to handle. In such cases, they may need to write their own code, tailored to their specific datasets and business questions. R and Python are the most popular languages for data analytics: R excels at developing programs for statistical analysis, while Python is often useful for automating repetitive tasks and creating visualizations of data. Other programming languages, such as MATLAB, may also be useful for solving certain challenges. Programming skills may only become more essential for data analysts in years to come, as companies face the challenge of extracting more and more sophisticated insights from ever larger amounts of data.
+
+Business Acumen
+Effective data analysts combine statistical and technical skills with the ability to understand the specific challenges facing their companies and decision makers. It thus helps for analysts to have extensive knowledge of their specific industries, as well as the business functions they serve inside the company. For instance, a data analyst charged with providing recommendations to a company’s marketing executives is likely to need a strong grasp of marketing strategy and tactics.
+
+Visualization and Communication
+To help decision-makers, data analysts have to tell stories with data and convey their findings in an accessible, informative way. As a result, they need the ability to create effective visual aids such as graphs, diagrams, and dashboards — a task that may require programming or business intelligence tools. Excellence in written and verbal communication is also a must for analysts. Over time, data analysts may find themselves working with personnel in a wider variety of roles, as data becomes more and more essential to decision making throughout their organizations. Consequently, the ability to speak to and interact with different audiences may become more important than ever.
+
+Machine Learning and Artificial Intelligence
+With advances in machine learning, more and more analytic tasks will be delegated to intelligent systems that can not only detect patterns in data, but also learn with experience and improve their own performance. For example, using an enterprise customer data platform like Arm Treasure Data, analysts can help identify valuable customer segments and begin to apply predictive analytics by assessing the likelihood of future events. This trend will change the data analyst’s role in unpredictable ways. More and more, analysts may need to understand how to apply AI tools and approaches to real-world problems, while machines take over the more routine or repetitive aspects of data analysis. Knowledge of deep learning frameworks and AI is currently desirable for some senior data analyst positions, and analysts with a strong programming background may find themselves working with data scientists to develop new machine learning solutions.
+
+Tools for Data Analysts
+Beyond these general skills, data analysts need to master a range of specific technologies in their work. Such tools may vary with their specific roles and the needs of the business. Examples include:
+
+SAS and other statistical analysis software
+Excel (for working with relatively small datasets)
+MySQL and other relational database systems
+NoSQL database systems such as MongoDB
+Visualization tools such as Tableau
+Big data tools such as Hadoop, Hive, Pig, and Impala
+ML tools such as TensorFlow, Caffe, MxNet, Torch
+In addition, data analysts may need tools specific to their industry or business function. For data analysts working in marketing, for instance, customer data platforms can streamline the process of gathering, processing and organizing data from a variety of sources.
+
+All in all, data analytics is a demanding specialty that requires an array of reasoning, statistical, technical, business and interpersonal skills. Given how few people have this combination of skills, data analysts are likely to be in demand for some time to come. And with the field changing so fast, the job of data analyst could evolve in ways that are hard to envision.
+
+To find out how companies are using data-driven strategies to outsmart their competitors, download our joint report with Forbes, Data vs. Goliath: Customer Data Strategies to Disrupt the Disruptors.
+
